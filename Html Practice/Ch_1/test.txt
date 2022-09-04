@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure cumque qui assumenda eligendi esse illo quod, vitae dolorem laborum eum, magni at minus rerum voluptates blanditiis veniam, impedit quasi totam?</p>
+</body>
+</html>
